@@ -7,3 +7,5 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 Öncelikle repoyu klonlayalım.
 
 `git clone https://github.com/kalamandrovka/kodluyoruzilkrepo.git`
+
+salam

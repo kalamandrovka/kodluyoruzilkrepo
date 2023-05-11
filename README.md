@@ -9,3 +9,8 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 `git clone https://github.com/kalamandrovka/kodluyoruzilkrepo.git`
 
 salam
+s
+sa
+sa
+aa
+a
